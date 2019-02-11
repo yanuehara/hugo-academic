@@ -9,7 +9,7 @@ title = "Recent Posts"
 subtitle = ""
 
 # Number of recent posts to list.
-count = 5
+count = 2
 
 # View.
 #   1 = List
@@ -21,5 +21,5 @@ view = 2
 #  E.g. to only show posts tagged with `Academic`, set `filter_tag = "Academic"`
 filter_tag = ""
 filter_category = ""
+tags_exclude = "class"
 +++
-
