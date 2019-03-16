@@ -13,28 +13,33 @@ role = "Post-Graduate at Universidade Federal do Paraná"
 organizations = [ { name = "Universidade Federal do Paraná", url = "https://ufpr.br" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Computer Security",
+  "Computer Networks",
+  "Information Management"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "MSc in Computer Science"
   institution = "Universidade Federal do Paraná"
-  year = "in progress"
+  year = "2019 - in progress"
+
+[[education.courses]]
+  course = "BSc in Computer Science (Exchange)"
+  institution = "Tampere University (former Tampere University of Technology)"
+  year = "2014 - 2015"
 
 [[education.courses]]
   course = "BSc in Computer Science"
   institution = "Universidade Federal do Mato Grosso do Sul"
-  year = 2018
+  year = "2014 - 2018"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,10 +51,10 @@ interests = [
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/yanuehara"
+#[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/yanuehara"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,6 +65,9 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+MSc. student in UFPR. His research interests include Computer Security and Computer Networks. He is currently conducting research at CCSC group. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Yan's has skills in computer networking and security. In addition, he has knowledge in programing languages, such as Java and Python, as well on requirements engineering and system development.
+He has also experience abroad, where he lived, studied and worked as a summer intern in Tampere, Finland, through Science Without Borders Program by CAPES/CNPq.
+
+During his undergradudate period he was an undergraduate scholarship holder in PET-Computação group.
