@@ -65,9 +65,17 @@ interests = [
 
 +++
 
+<div align="justify">
+
 MSc. student in UFPR. His research interests include Computer Security and Computer Networks. He is currently conducting research at CCSC group. 
+
+<br/><br/>
 
 Yan's has skills in computer networking and security. In addition, he has knowledge in programing languages, such as Java and Python, as well on requirements engineering and system development.
 He has also experience abroad, where he lived, studied and worked as a summer intern in Tampere, Finland, through Science Without Borders Program by CAPES/CNPq.
 
+<br/><br/>
+
 During his undergradudate period he was an undergraduate scholarship holder in PET-Computação group.
+
+</div>
