@@ -22,29 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  # - title: Jr. Backend Developer
+  #   company: Mercado Bitcoin Serviços Digitais Ltda.
+  #   company_url: https://www.mercadobitcoin.com.br
+  #   location: São Paulo/SP - Brazil
+  #   date_start: 2020-12-15
+  #   date_end: 
+  #   description: |2-
+  #     Jr. Backend Developer.
 
-design:
-  columns: '2'
+  - title: Graduate Scholarship Holder (MSc)
+    company: CNPq - National Council for Scientific and Technological Development
+    company_url: https://www.cnpq.br
+    location: Curitiba/PR - Brazil
+    date_start: 2019-03-01
+    date_end: 
+    description: |2-
+      CNPq Full-time Scholarship holder in Master’s degree in Informatics Graduate Program of Universidade Federal do Paraná.  
+
+      Currently conducting research at CCSC (Center for Computational Security sCience).
+
+  - title: Undergraduate Scholarship Holder
+    company: Universidade Federal do Mato Grosso do Sul
+    company_url: https://ufms.br/
+    location: Campo Grande/MS, Brazil
+    date_start: 2015-11-01
+    date_end: 2018-10-01
+    description: |2-
+      PET-Computação group  
+      Main activities:  
+      * Teacher Assitant for Algorithms and Programming I (2017/1st semester) and Computer Networking (2017/2nd semester)  
+      * Prepared and lectured a short course on planning and configuring computer networks topologies using GNS3  
+      * Produced an booklet and short course about git
+
+  - title: Summer Trainee
+    company: Nokia Solutions and Networks
+    company_url: https://networks.nokia.com
+    location: Tampere, Finland
+    date_start: 2015-06-01
+    date_end: 2015-08-15
+    description: |2-
+      Operations System Suport R&D Departament, Performance Team  
+      Main activities: NetAct system performance, dimensioning, capacity data reporting and visualization tools
 ---
