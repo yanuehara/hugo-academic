@@ -8,6 +8,7 @@ superuser: true
 # Role/position/tagline
 role:  |2-
   Post-Graduate at Universidade Federal do Paraná  
+  Developer
 #  Jr Backend Developer
 
 # Organizations/Affiliations to show in About widget
@@ -22,8 +23,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Software Engineering
 - Computer Security
 - Computer Networks
+- Blockchain & Blockchain Technologies
 - Information Management
 
 # Education to show in About widget
@@ -33,7 +36,7 @@ education:
     institution: Universidade Federal do Paraná
     year: 2019 - in progress
   - course: BSc in Computer Science (Exchange)
-    institution: Tampere University (former Tampere University of Technology)
+    institution: Tampere University - Hervanta Campus (former Tampere University of Technology)
     year: 2014 - 2015
   - course: BSc in Computer Science
     institution: Universidade Federal do Mato Grosso do Sul
@@ -76,11 +79,12 @@ highlight_name: true
 
 <div align="justify">
 
-MSc. student in UFPR. His research interests include Computer Security and Computer Networks. He is currently conducting research at CCSC group. 
+MSc. student in UFPR and developer. His research interests include Computer Security and Computer Networks. He is currently conducting research at NR2/CCSC group.
 <br/><br/>
-Yan's has skills in computer networking and security. In addition, he has knowledge in programing languages, such as Java and Python, as well on requirements engineering and system development.
+Yan has skills in computer networking and security. In addition, he has knowledge in programing languages, such as Java and Python, as well on requirements engineering and system development. He also has knowledge in Kubernetes, containers (Docker) and CI/CD processes.
 He has also experience abroad, where he lived, studied and worked as a summer intern in Tampere, Finland, through Science Without Borders Program by CAPES/CNPq.
 <br/><br/>
-During his undergradudate period he was an undergraduate scholarship holder in PET-Computação group.
-
+During his undergraduate period he was an undergraduate scholarship holder in PET-Computação group.
+<br/><br/>
+Member of the [Brazilian Society of Computing (SBC)](https://www.sbc.org.br/)
 </div>

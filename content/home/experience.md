@@ -40,7 +40,7 @@ experience:
     description: |2-
       CNPq Full-time Scholarship holder in Master’s degree in Informatics Graduate Program of Universidade Federal do Paraná.  
 
-      Currently conducting research at CCSC (Center for Computational Security sCience).
+      Currently conducting research at NR2
 
   - title: Undergraduate Scholarship Holder
     company: Universidade Federal do Mato Grosso do Sul
@@ -62,6 +62,8 @@ experience:
     date_start: 2015-06-01
     date_end: 2015-08-15
     description: |2-
-      Operations System Suport R&D Departament, Performance Team  
-      Main activities: NetAct system performance, dimensioning, capacity data reporting and visualization tools
+      R&D Departament of Operations System Suport, Performance Team  
+      Main activities:  
+      * NetAct system performance, dimensioning and capacity data reporting
+      * Visualization tools
 ---
