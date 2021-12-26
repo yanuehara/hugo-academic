@@ -20,5 +20,5 @@ jobs:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           repo: yanuehara/yanuehara.github.io
           hugoVersion: extended_0.89.4
-          branch: yanuehara
+          branch: master
           cname: yanuehara.dev
