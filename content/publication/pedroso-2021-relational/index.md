@@ -33,8 +33,8 @@ image:
 projects: []
 publishDate: '2021-02-01T14:44:11.101597Z'
 publication_types:
-- '3'
+- '1'
 abstract: IIoT services focused on industry-oriented services often require objects run more than one task. IIoT objects poses the challenge of distributing and managing task allocation among them. The fairness of task allocation brings flexible network reconfiguration and maximizes the tasks to be performed. Although existing approaches optimize and manage the dynamics of objects, not all them consider both co-relationship between tasks and object capabilities and the distributed allocation over the cluster service. This paper introduces the ACADIA mechanism for task allocation in IIoT networks in order to distribute task among objects. It relies on relational consensus strategies to allocate tasks and similarity capabilities to determine which objects can play in accomplishing those tasks. Evaluation on NS-3 showed that ACADIA achieved 98% of allocated tasks in an IIoT-Health considering all scenarios, average more than 95% of clusters apt to performed tasks in a low response time, and achieved 50% more effectiveness in task allocation compared to the literature solution CONTASKI.
-publication: '*arXiv preprint arXiv:2102.01020*'
+publication: '*2021 IFIP/IEEE International Symposium on Integrated Network Management (IM)*'
 url_pdf: https://arxiv.org/abs/2102.01020
 ---

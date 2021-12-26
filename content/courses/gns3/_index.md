@@ -20,6 +20,7 @@ weight: 1
 tags: [GNS3, PET-Computação]
 authors: [Yan Uehara de Moraes]
 toc: false
+draft: true
 ---
 
 This is course was conceived after my exchange period. This is an introductory course in Network Simulation in GNS3 and follows some of the contents of the Cisco CCNA/CCNP certifications.
