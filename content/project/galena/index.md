@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "GALENA"
-summary: This project proposes a system for adaptive authentication management, supported by social trust and policies. The GALENA system (manaGement of Adaptive authentication based on poLiciEs aNd sociAl trust), seeks to determine the most appropriate authentication profile to perform authentication between devices based on the devices' social trust
+summary: Devices’ authentication is one of the key requirements to provide security in IoT environments. However, current Adaptative Authentication Systems (AAS) employ adaptation factors in an isolated way and ignore the correlation between them, as well as the relations that the devices build in the contexts where they are located. Those AASs show themselves as rigid about the most compatible mechanisms in one given context and do not provide multi-factor adaptation. This work proposes GALENA as an adaptive authentication management system in IoT networks, based on social trust strategies, devices’ context, and policies. The GALENA evaluation showed its efficiency in adapting and selecting the authentication mechanism appropriated for each interaction
 authors: [Yan Uehara de Moraes, Carlos Pedroso, Michele Nogueira, Aldri Santos]
 tags: [IoT, Adaptive Authentication, Social Trust, Policies]
 categories: []
-date: 2021-03-07T12:52:27-03:00
+date: 2022-02-25T12:52:27-03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -41,5 +41,5 @@ url_video: ""
 slides: ""
 ---
 
-As the devices become present in different social and human settings they come in contact with sensitive information. In those situations, they need to verify other device's identities to interact with them.
-However, as multiple authentication mechanisms for IoT exists, systems capable to change the authentication mechanism in use becomes necessary. Adaptive authentication systems allow devices to react to modification in input factors and use a mechanism suitable to the situation they encounter. However, existing approaches do not consider the social relation that exists among devices as an adaptation factor. This project proposes a system for adaptive authentication management, supported by social trust and policies. The system, called **GALENA** (mana**G**ement of **A**daptive authentication based on poLici**E**s a**N**d soci**A**l trust), seeks to determine the most appropriate authentication profile to perform authentication between devices. It uses social trust, calculated from the sociability between devices, as an input to the adaptation system. In addition to social trust, the system uses policies to help choose the appropriate authentication mechanism. Those techniques allows flexibility in the device authentication process and provides robustness in service relations.
+
+Devices’ authentication is one of the key requirements to provide security in IoT environments. However, current Adaptative Authentication Systems (AAS) employ adaptation factors in an isolated way and ignore the correlation between them, as well as the relations that the devices build in the contexts where they are located. Those AASs show themselves as rigid about the most compatible mechanisms in one given context and do not provide multi-factor adaptation. This work proposes GALENA ((mana**G**ement of **A**daptive authentication based on poLici**E**s a**N**d soci**A**l trust)) as an adaptive authentication management system in IoT networks, based on social trust strategies, devices’ context, and policies. The GALENA evaluation showed its efficiency in adapting and selecting the authentication mechanism appropriated for each interaction.
