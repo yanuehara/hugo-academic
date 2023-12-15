@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: coffee
+theme: minimal
 day_night: true
 font: 'minimal'
 font_size: L
@@ -104,11 +104,11 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
-  allow_derivatives: false
+  enable: true
+  allow_derivatives: true
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'Unless explicitly stated otherwise, the contens of this site are licensed under {license}'
 abstract_length: 135
 plugins_js: []
 avatar:

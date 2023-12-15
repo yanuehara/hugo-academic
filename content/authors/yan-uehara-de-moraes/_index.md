@@ -7,16 +7,12 @@ superuser: true
 
 # Role/position/tagline
 role:  |2-
-  Post-Graduate at Universidade Federal do Paraná  
-  Developer
-#  Jr Backend Developer
+  Software Engineer - Backend at Mercado Bitcoin
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Federal University of Parana
-  url: https://www.ufpr.br
-# - name: Mercado Bitcoin
-#   url: https://www.mercadobitcoin.com.br
+ - name: Mercado Bitcoin
+   url: https://www.mercadobitcoin.com.br
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -34,7 +30,7 @@ education:
   courses:
   - course: MSc in Computer Science
     institution: Universidade Federal do Paraná
-    year: 2019 - in progress
+    year: 2019 - 2022
   - course: BSc in Computer Science (Exchange)
     institution: Tampere University - Hervanta Campus (former Tampere University of Technology)
     year: 2014 - 2015
@@ -79,12 +75,9 @@ highlight_name: true
 
 <div align="justify">
 
-MSc. student in UFPR and developer. His research interests include Computer Security and Computer Networks. He is currently conducting research at NR2/CCSC group.
-<br/><br/>
-Yan has skills in computer networking and security. In addition, he has knowledge in programing languages, such as Java and Python, as well on requirements engineering and system development. He also has knowledge in Kubernetes, containers (Docker) and CI/CD processes.
-He has also experience abroad, where he lived, studied and worked as a summer intern in Tampere, Finland, through Science Without Borders Program by CAPES/CNPq.
-<br/><br/>
-During his undergraduate period he was an undergraduate scholarship holder in PET-Computação group.
-<br/><br/>
+Yan is a backend developer with expertise in authentication, authorization, and AML/CFT integrations and processes. He earned his MSc. degree from UFPR in 2022, specializing in computer security and computer networks. His research during his master's program showcased his commitment to staying at the forefront of technology and his ability to solve complex problems.
+
+Yan excels in programming languages like Python and Golang (Go), leveraging this expertise to create secure and high-performant backend solutions. He is skilled in requirements engineering, aligning his projects with both technical and business requirements and limitations. Yan is well-versed in containerization technologies (Docker/Kubernetes), CI/CD processes, and experienced in designing and developing systems with microservices architectures and event-driven integrations.
+
 Member of the [Brazilian Society of Computing (SBC)](https://www.sbc.org.br/)
 </div>

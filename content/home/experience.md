@@ -22,25 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: Jr. Backend Developer
-  #   company: Mercado Bitcoin Serviços Digitais Ltda.
-  #   company_url: https://www.mercadobitcoin.com.br
-  #   location: São Paulo/SP - Brazil
-  #   date_start: 2020-12-15
-  #   date_end: 
-  #   description: |2-
-  #     Jr. Backend Developer.
+  - title: Backend Developer
+    company: Mercado Bitcoin Serviços Digitais Ltda.
+    company_url: https://www.mercadobitcoin.com.br
+    location: São Paulo/SP - Brazil
+    date_start: 2020-12-15
+    date_end: 
+    description: |2-
+      Software engineer/Backend Developer curently working in the team that takes care of the platforms' Authentication and Authorization and AML/CFT integrations
 
   - title: Graduate Scholarship Holder (MSc)
     company: CNPq - National Council for Scientific and Technological Development
     company_url: https://www.cnpq.br
     location: Curitiba/PR - Brazil
     date_start: 2019-03-01
-    date_end: 
+    date_end: 2021-03-31
     description: |2-
       CNPq Full-time Scholarship holder in Master’s degree in Informatics Graduate Program of Universidade Federal do Paraná.  
 
-      Currently conducting research at NR2
+      Conducted research in the CCSC/NR2 team
 
   - title: Undergraduate Scholarship Holder
     company: Universidade Federal do Mato Grosso do Sul
