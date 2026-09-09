@@ -13,9 +13,12 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Short Courses and Tutorials
-    url: '/courses'
-    weight: 40
+  - name: Talks
+    url: '/event/'
+    weight: 35
+#  - name: Short Courses and Tutorials
+#    url: '/courses'
+#    weight: 40
   - name: Publications
     url: '#publications'
     weight: 50
