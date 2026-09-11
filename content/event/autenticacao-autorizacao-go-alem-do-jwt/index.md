@@ -38,7 +38,7 @@ image:
 
 links: []
 url_code: "https://github.com/yanuehara-mb/gophercon-2026"
-url_pdf: "auth-go-alem-do-jwt.pdf"
+url_pdf: "/talk/autenticacao-e-autorizacao-em-go-alem-do-jwt/auth-go-alem-do-jwt.pdf"
 url_slides: ""
 url_video: ""
 
